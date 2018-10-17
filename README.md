@@ -4,7 +4,7 @@ Developed by Taewoo Kim in 2015
 
 The project was launched to make a platform that helps people trade their skills(Computer skills, English Skill) in Korea. That is why the project is named IT + English = ITing. Users can trade their skillset with others via this application.
 The application has functions such as posting, searching, requesting, bookmarking, friending, messaging.
-
+![ITing_logo](https://user-images.githubusercontent.com/10269640/47119246-2d036980-d238-11e8-8a33-7ed832bb1544.png)
 ![kakaotalk_20151213_185642897](https://cloud.githubusercontent.com/assets/10269640/20252376/9540c556-a9ef-11e6-9844-e206744815d1.jpg)
 ![kakaotalk_20151213_185642949](https://cloud.githubusercontent.com/assets/10269640/20252377/95410c3c-a9ef-11e6-8c08-3673590d4bc3.jpg)
 ![kakaotalk_20151213_185645610](https://cloud.githubusercontent.com/assets/10269640/20252378/954d021c-a9ef-11e6-83cb-df4921400c5f.jpg)
